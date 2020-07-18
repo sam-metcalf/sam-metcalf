@@ -7,7 +7,7 @@ I'm a full-stack web developer working mostly within the .NET framework. I am al
 * Entity Framework
 * Vue
 
-#### &nbsp;  How to reach me
+#### &nbsp; How to reach me
 
 You can reach me by email (left panel) or on my [LinkedIn](https://www.linkedin.com/in/sam-a-metcalf).
 
