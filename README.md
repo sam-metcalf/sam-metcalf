@@ -1,10 +1,11 @@
 **Hi, I'm Sam**
-I'm a full-stack web developer working mostly within the .NET framework. I am also enjoying learning JavaScript.
+I'm a full-stack web developer working mostly within the .NET framework.
 
 #### &nbsp; What I'm Learning
 
 * LINQ
 * Entity Framework
+* JavaScript
 * Vue
 
 #### &nbsp;How to reach me
